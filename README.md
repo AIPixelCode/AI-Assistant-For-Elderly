@@ -41,7 +41,7 @@ The full conceptual report is available as a PDF document in this repository.
 ---
 
 ## 🙋‍♀️ Author
-Designed by Parizad80
+Designed by AI PixelCode
 
 For inquiries or collaboration: parizad.py.80@gmail.com
 
